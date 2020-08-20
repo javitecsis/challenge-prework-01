@@ -4,8 +4,7 @@ Recap: Curso de Pensamiento Logico.
 ## Retos:
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
-
-<Imagen_reto_1> 
+https://github.com/PlatziMaster/challenge-prework-01/pull/40#discussion_r470400542 
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
